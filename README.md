@@ -2,6 +2,18 @@
 
 **Author**: Angela Loyola
 
+## Repository Structure
+
+Describe the structure of your repository and its contents, for example:
+
+```
+├── README.md                           <- The top-level README for reviewers of this project
+├── index.ipynb   <- Jupyter Notebook file were analysis was conducted 
+├── Microsoft Movie Studio Analysis.pdf         <- PDF version of project presentation
+├── zipped data                                <- Sourced Externally 
+└── images                              <- Sourced Externally
+```
+
 ## Overview
 
 This project researches Box Offices movies and their different characteristics like genre, ratings, and release date. It seeks to inform Microsoft's strategic planning as they enter the movie production space by creating their own movies for distribution. Descriptive analysis shows Family movies released in December or June have a high potential to drive a large Domestic Gross. Microsoft can use this analysis to develop a market entry strategy that has a high return on investment. 
@@ -59,9 +71,6 @@ Yet, given the business problem, if either seasonality or external factors are t
 
 In this section, a pearson correlation coefficient was outputted to assess the relationship between average ratings and gross.
 
-
-***
-
 ***
 
 
@@ -76,17 +85,3 @@ This analysis leads to three recommendations for Microsoft as they break into th
 <b>Focus on profits over ratings.</b> Correlation analysis shows that there is very little correlation between the average rating of a movie and its domestic gross. As Microsoft enters the market, ratings should not influence future production planning. 
 ***
 
-
-
-## Repository Structure
-
-Describe the structure of your repository and its contents, for example:
-
-```
-├── README.md                           <- The top-level README for reviewers of this project
-├── index.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── Microsoft Movie Studio Analysis.pdf         <- PDF version of project presentation
-├── zipped data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
-```
-# Phase-1-Final-Project
