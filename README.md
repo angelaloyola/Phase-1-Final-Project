@@ -9,7 +9,7 @@ Describe the structure of your repository and its contents, for example:
 ```
 ├── README.md                           <- The top-level README for reviewers of this project
 ├── index.ipynb   <- Jupyter Notebook file were analysis was conducted 
-├── Microsoft Movie Studio Analysis.pdf         <- PDF version of project presentation
+├── Microsoft Movie Analysis.pdf         <- PDF version of project presentation
 ├── zipped data                                <- Sourced Externally 
 └── images                              <- Sourced Externally
 ```
